@@ -1,2 +1,2 @@
 # gitskills
-# ßadd git by lida
+# add git by lida
